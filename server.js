@@ -108,7 +108,7 @@ async function initDB() {
 initDB().catch(e => {
   console.error('FATAL: no se pudo inicializar la base de datos.');
   console.error(e.message);
-  process.exit(1);
+  console.log("Continuando sin initDB...");
 });
 
 /* ---- API publica ---- */
@@ -179,3 +179,8 @@ app.post('/api/auth/password', async (req,res) => {
   } catch (err) { console.error(err); res.status(500).json({ ok: false }); }
 });
 
+
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Carl Art Sketches · servidor online en el puerto ${PORT}`);
+});
