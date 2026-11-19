@@ -1,6 +1,0 @@
-Carpeta para tus imágenes (bocetos y materiales).
-
-Copia aquí tus archivos (por ejemplo  mi-boceto.jpg) y, en el modo administrador,
-escribe en "URL DE IMAGEN" la ruta relativa:   img/mi-boceto.jpg
-
-También puedes usar enlaces completos (https://...) a imágenes alojadas en otro sitio.
