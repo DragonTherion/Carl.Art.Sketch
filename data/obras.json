@@ -1,0 +1,4048 @@
+{
+<<<<<<< HEAD
+  "updated": 0,
+  "site": {
+    "title": "CARL ART SKETCHES",
+    "sub": ""
+  },
+  "auth": null,
+  "works": []
+=======
+ "updated": 1794958264231,
+ "site": {
+  "title": "CARL ART SKETCHES",
+  "sub": "",
+  "copy": ""
+ },
+ "auth": null,
+ "works": [
+  {
+   "id": "user-1793304812558",
+   "title": "Espacio geométrico",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518740_75074734a1_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Rayado, Circulismo, Garabateo, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "RAYADO",
+    "CIRCULISMO",
+    "GARABATEO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#484c4b",
+     "p": 10
+    },
+    {
+     "c": "#505453",
+     "p": 10
+    },
+    {
+     "c": "#545857",
+     "p": 10
+    },
+    {
+     "c": "#606462",
+     "p": 10
+    },
+    {
+     "c": "#707371",
+     "p": 10
+    },
+    {
+     "c": "#8f918e",
+     "p": 10
+    },
+    {
+     "c": "#a6a8a4",
+     "p": 10
+    },
+    {
+     "c": "#d5d6d0",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 001",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958200231
+  },
+  {
+   "id": "user-1793304967951",
+   "title": "Observador profundo",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241788_e9879c1fc1_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Rayado, Esfumado, Garabateo, Circulismo",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "RAYADO",
+    "ESFUMADO",
+    "GARABATEO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#4a4f51",
+     "p": 10
+    },
+    {
+     "c": "#555959",
+     "p": 10
+    },
+    {
+     "c": "#6b6d68",
+     "p": 10
+    },
+    {
+     "c": "#787a74",
+     "p": 10
+    },
+    {
+     "c": "#92948d",
+     "p": 10
+    },
+    {
+     "c": "#a6a7a4",
+     "p": 10
+    },
+    {
+     "c": "#a7a9a2",
+     "p": 10
+    },
+    {
+     "c": "#d3d3cd",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 002",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958201231
+  },
+  {
+   "id": "user-1793305248871",
+   "title": "Diablo I",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55615095917_09ae5d06af_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Circulismo, Puntillismo, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#646662",
+     "p": 10
+    },
+    {
+     "c": "#7b7d79",
+     "p": 10
+    },
+    {
+     "c": "#a9aba8",
+     "p": 10
+    },
+    {
+     "c": "#c5c6bf",
+     "p": 10
+    },
+    {
+     "c": "#cccdcb",
+     "p": 10
+    },
+    {
+     "c": "#fefeee",
+     "p": 10
+    },
+    {
+     "c": "#fefef4",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 003",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958202231
+  },
+  {
+   "id": "user-1793305302838",
+   "title": "Iluminación",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616105521_dae9d2cf7d_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Rayado, Esfumado, Garabateo, Circulismo",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "RAYADO",
+    "ESFUMADO",
+    "GARABATEO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#797c77",
+     "p": 10
+    },
+    {
+     "c": "#8d9089",
+     "p": 10
+    },
+    {
+     "c": "#b6b8af",
+     "p": 10
+    },
+    {
+     "c": "#c7c8bd",
+     "p": 10
+    },
+    {
+     "c": "#d2d4cf",
+     "p": 10
+    },
+    {
+     "c": "#e9e9d9",
+     "p": 10
+    },
+    {
+     "c": "#f0f0e4",
+     "p": 10
+    },
+    {
+     "c": "#fefffb",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 004",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958203231
+  },
+  {
+   "id": "user-1793305446637",
+   "title": "Iluminación II",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616105511_c81e8296f3_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Puntillismo, Esfumado, Difumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "ESFUMADO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#555657",
+     "p": 10
+    },
+    {
+     "c": "#626362",
+     "p": 10
+    },
+    {
+     "c": "#7b7e79",
+     "p": 10
+    },
+    {
+     "c": "#999c93",
+     "p": 10
+    },
+    {
+     "c": "#c7c7c8",
+     "p": 10
+    },
+    {
+     "c": "#d7d8c9",
+     "p": 10
+    },
+    {
+     "c": "#e4e5db",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 005",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958204231
+  },
+  {
+   "id": "user-1793305611950",
+   "title": "Raóces",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616314919_af331ce664_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "grafito",
+   "technique": "Puntillismo, Garabateo, Rayado, Circulismo, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "GARABATEO",
+    "RAYADO",
+    "CIRCULISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#484c4c",
+     "p": 10
+    },
+    {
+     "c": "#505452",
+     "p": 10
+    },
+    {
+     "c": "#5f635f",
+     "p": 10
+    },
+    {
+     "c": "#6a6d68",
+     "p": 10
+    },
+    {
+     "c": "#81807b",
+     "p": 10
+    },
+    {
+     "c": "#92918d",
+     "p": 10
+    },
+    {
+     "c": "#909290",
+     "p": 10
+    },
+    {
+     "c": "#b4b5b1",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 006",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958205231
+  },
+  {
+   "id": "user-1793305694486",
+   "title": "Raíz",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241743_2d233d50b3_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "grafito",
+   "technique": "Esfumado, Puntillismo, Circulismo",
+   "materials": "NEGRO",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "PUNTILLISMO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#6e716d",
+     "p": 10
+    },
+    {
+     "c": "#9da097",
+     "p": 10
+    },
+    {
+     "c": "#b6b8ad",
+     "p": 10
+    },
+    {
+     "c": "#cfd0cf",
+     "p": 10
+    },
+    {
+     "c": "#fdfeed",
+     "p": 10
+    },
+    {
+     "c": "#fefef3",
+     "p": 10
+    },
+    {
+     "c": "#fefff6",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 007",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958206231
+  },
+  {
+   "id": "user-1793308215663",
+   "title": "Yelmo del vacío.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518685_bc86f93c73_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Esfumado, Rayado, Circulismo",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "RAYADO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#505253",
+     "p": 10
+    },
+    {
+     "c": "#7b7b79",
+     "p": 10
+    },
+    {
+     "c": "#91918d",
+     "p": 10
+    },
+    {
+     "c": "#c5c6c6",
+     "p": 10
+    },
+    {
+     "c": "#d1cfc7",
+     "p": 10
+    },
+    {
+     "c": "#e0dfd9",
+     "p": 10
+    },
+    {
+     "c": "#fefeff",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 008",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958207231
+  },
+  {
+   "id": "user-1793308544302",
+   "title": "Visión orgánica.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241723_68e0f29351_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Puntillismo, Esfumado, Achurado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "ESFUMADO",
+    "ACHURADO"
+   ],
+   "palette": [
+    {
+     "c": "#4d4e4b",
+     "p": 10
+    },
+    {
+     "c": "#555653",
+     "p": 10
+    },
+    {
+     "c": "#666764",
+     "p": 10
+    },
+    {
+     "c": "#71726d",
+     "p": 10
+    },
+    {
+     "c": "#878880",
+     "p": 10
+    },
+    {
+     "c": "#979892",
+     "p": 10
+    },
+    {
+     "c": "#989991",
+     "p": 10
+    },
+    {
+     "c": "#bcbdb5",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 009",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958208231
+  },
+  {
+   "id": "user-1793308736369",
+   "title": "Visión profunda orgánica",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241708_b7a276ace9_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Circulismo, Puntillismo, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#4f5553",
+     "p": 10
+    },
+    {
+     "c": "#585c5b",
+     "p": 10
+    },
+    {
+     "c": "#6b6b6b",
+     "p": 10
+    },
+    {
+     "c": "#757674",
+     "p": 10
+    },
+    {
+     "c": "#8a8b85",
+     "p": 10
+    },
+    {
+     "c": "#959791",
+     "p": 10
+    },
+    {
+     "c": "#999a93",
+     "p": 10
+    },
+    {
+     "c": "#b8b8b0",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 010",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958209231
+  },
+  {
+   "id": "user-1793309144692",
+   "title": "Caminos de tinta y sombra",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241718_809b7616b8_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "boligrafo",
+   "technique": "Rayado, Esfumado, Trama, Perspectiva",
+   "materials": "NEGRO, AZUL, ROJO",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "ESFUMADO",
+    "TRAMA",
+    "PERSPECTIVA"
+   ],
+   "palette": [
+    {
+     "c": "#464947",
+     "p": 10
+    },
+    {
+     "c": "#4b5067",
+     "p": 10
+    },
+    {
+     "c": "#565da8",
+     "p": 10
+    },
+    {
+     "c": "#6469b1",
+     "p": 10
+    },
+    {
+     "c": "#8080c3",
+     "p": 10
+    },
+    {
+     "c": "#8e91b0",
+     "p": 10
+    },
+    {
+     "c": "#9191ce",
+     "p": 10
+    },
+    {
+     "c": "#b2b4e4",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 011",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958210231
+  },
+  {
+   "id": "user-1793309560452",
+   "title": "Deformando el caos.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518680_7d90ef6a0b_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "boligrafo",
+   "technique": "Difumado, Esfumado, Rayado, Puntillismo, Circulismo",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "DIFUMADO",
+    "ESFUMADO",
+    "RAYADO",
+    "PUNTILLISMO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#434e9b",
+     "p": 10
+    },
+    {
+     "c": "#4b55a3",
+     "p": 10
+    },
+    {
+     "c": "#5c64b2",
+     "p": 10
+    },
+    {
+     "c": "#686eb7",
+     "p": 10
+    },
+    {
+     "c": "#8081c1",
+     "p": 10
+    },
+    {
+     "c": "#898fc9",
+     "p": 10
+    },
+    {
+     "c": "#8f90cb",
+     "p": 10
+    },
+    {
+     "c": "#acafe0",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 012",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958211231
+  },
+  {
+   "id": "user-1793309934445",
+   "title": "Perspectiva Infinita.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241703_f8b7e91968_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Circulismo, Puntillismo, Rayado, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "RAYADO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#535656",
+     "p": 10
+    },
+    {
+     "c": "#5c5e5d",
+     "p": 10
+    },
+    {
+     "c": "#6d6e6b",
+     "p": 10
+    },
+    {
+     "c": "#7c7c79",
+     "p": 10
+    },
+    {
+     "c": "#999996",
+     "p": 10
+    },
+    {
+     "c": "#a7a8a5",
+     "p": 10
+    },
+    {
+     "c": "#ababa8",
+     "p": 10
+    },
+    {
+     "c": "#d1d0cc",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 013",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958212231
+  },
+  {
+   "id": "user-1793310140052",
+   "title": "Perspectiva invertida.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616105451_22fff8551f_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Puntillismo, Rayado, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "RAYADO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#544f50",
+     "p": 10
+    },
+    {
+     "c": "#665b5c",
+     "p": 10
+    },
+    {
+     "c": "#8b7373",
+     "p": 10
+    },
+    {
+     "c": "#967f7f",
+     "p": 10
+    },
+    {
+     "c": "#ad9897",
+     "p": 10
+    },
+    {
+     "c": "#aca2a0",
+     "p": 10
+    },
+    {
+     "c": "#bba9a7",
+     "p": 10
+    },
+    {
+     "c": "#d7cbc7",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 014",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958213231
+  },
+  {
+   "id": "user-1793310281580",
+   "title": "Visión orgánica.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616314814_a9059880b3_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Circulismo, Puntillismo, Rayado, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "RAYADO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#705d5d",
+     "p": 10
+    },
+    {
+     "c": "#796465",
+     "p": 10
+    },
+    {
+     "c": "#8c7374",
+     "p": 10
+    },
+    {
+     "c": "#927d7d",
+     "p": 10
+    },
+    {
+     "c": "#9d908f",
+     "p": 10
+    },
+    {
+     "c": "#aa9999",
+     "p": 10
+    },
+    {
+     "c": "#ab9d9c",
+     "p": 10
+    },
+    {
+     "c": "#c7b6b6",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 015",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958214231
+  },
+  {
+   "id": "user-1793310470140",
+   "title": "Tejido de pesadilla.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616105426_451da4ae78_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "boligrafo",
+   "technique": "Esfumado, Rayado, Puntillismo, Circulismo",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "RAYADO",
+    "PUNTILLISMO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#5259a7",
+     "p": 10
+    },
+    {
+     "c": "#5d62ac",
+     "p": 10
+    },
+    {
+     "c": "#7374b7",
+     "p": 10
+    },
+    {
+     "c": "#7e7fc4",
+     "p": 10
+    },
+    {
+     "c": "#9394de",
+     "p": 10
+    },
+    {
+     "c": "#a2a3d5",
+     "p": 10
+    },
+    {
+     "c": "#a5a5e2",
+     "p": 10
+    },
+    {
+     "c": "#cac8eb",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 016",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958215231
+  },
+  {
+   "id": "user-1793310580811",
+   "title": "Dimensión azul.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241683_bbe218fb9b_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "boligrafo",
+   "technique": "Circulismo, Rayado, Esfumado",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "RAYADO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#6069b8",
+     "p": 10
+    },
+    {
+     "c": "#7076c0",
+     "p": 10
+    },
+    {
+     "c": "#8f90d0",
+     "p": 10
+    },
+    {
+     "c": "#9e9ed9",
+     "p": 10
+    },
+    {
+     "c": "#b2b5de",
+     "p": 10
+    },
+    {
+     "c": "#bcb9ec",
+     "p": 10
+    },
+    {
+     "c": "#c6c4ee",
+     "p": 10
+    },
+    {
+     "c": "#dbdaf1",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 017",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958216231
+  },
+  {
+   "id": "user-1793310766044",
+   "title": "Abismo observado.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518625_50257e301f_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Puntillismo, Circulismo, Esfumado, Rayado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "CIRCULISMO",
+    "ESFUMADO",
+    "RAYADO"
+   ],
+   "palette": [
+    {
+     "c": "#494b4a",
+     "p": 10
+    },
+    {
+     "c": "#595151",
+     "p": 10
+    },
+    {
+     "c": "#795c60",
+     "p": 10
+    },
+    {
+     "c": "#7c696b",
+     "p": 10
+    },
+    {
+     "c": "#838480",
+     "p": 10
+    },
+    {
+     "c": "#8d8d8a",
+     "p": 10
+    },
+    {
+     "c": "#92928e",
+     "p": 10
+    },
+    {
+     "c": "#afaeaa",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 018",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958217231
+  },
+  {
+   "id": "user-1793389672040",
+   "title": "Embrión",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518620_e21a082227_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "boligrafo",
+   "technique": "Rayado, Circulismo, Esfumado",
+   "materials": "NEGRO, ROJO",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "CIRCULISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#68454a",
+     "p": 10
+    },
+    {
+     "c": "#6b4f52",
+     "p": 10
+    },
+    {
+     "c": "#716461",
+     "p": 10
+    },
+    {
+     "c": "#7e6d6c",
+     "p": 10
+    },
+    {
+     "c": "#977e83",
+     "p": 10
+    },
+    {
+     "c": "#bd7b84",
+     "p": 10
+    },
+    {
+     "c": "#b1868d",
+     "p": 10
+    },
+    {
+     "c": "#e796a0",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 019",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958218231
+  },
+  {
+   "id": "user-1793389737779",
+   "title": "Azyl visceral",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616105401_82f6e29cc1_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "boligrafo",
+   "technique": "Puntillismo, Rayado, Esfumado",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "RAYADO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#494b8a",
+     "p": 10
+    },
+    {
+     "c": "#4f5296",
+     "p": 10
+    },
+    {
+     "c": "#5a60ae",
+     "p": 10
+    },
+    {
+     "c": "#656ab4",
+     "p": 10
+    },
+    {
+     "c": "#7a7dc1",
+     "p": 10
+    },
+    {
+     "c": "#8b8bc4",
+     "p": 10
+    },
+    {
+     "c": "#8b8ccc",
+     "p": 10
+    },
+    {
+     "c": "#acabe1",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 020",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958219231
+  },
+  {
+   "id": "user-1793389938266",
+   "title": "Simetría del caos.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518610_1b4480bbc4_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Esgrafiado, Circulismo, Puntillismo, Rayado, Esfumado, Achurado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "ESGRAFIADO",
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "RAYADO",
+    "ESFUMADO",
+    "ACHURADO"
+   ],
+   "palette": [
+    {
+     "c": "#535453",
+     "p": 10
+    },
+    {
+     "c": "#616361",
+     "p": 10
+    },
+    {
+     "c": "#7d817e",
+     "p": 10
+    },
+    {
+     "c": "#8f928e",
+     "p": 10
+    },
+    {
+     "c": "#b3b2a6",
+     "p": 10
+    },
+    {
+     "c": "#b3b3ad",
+     "p": 10
+    },
+    {
+     "c": "#c3c2b8",
+     "p": 10
+    },
+    {
+     "c": "#e3e0cf",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 021",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958220231
+  },
+  {
+   "id": "user-1793390047288",
+   "title": "Deformación observable.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616314779_1540281154_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "boligrafo",
+   "technique": "Rayado, Circulismo, Puntillismo, Esfumado",
+   "materials": "AZUL, Azul marino, Azul celeste, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#4d529c",
+     "p": 10
+    },
+    {
+     "c": "#565da9",
+     "p": 10
+    },
+    {
+     "c": "#6972c4",
+     "p": 10
+    },
+    {
+     "c": "#777fca",
+     "p": 10
+    },
+    {
+     "c": "#9498d5",
+     "p": 10
+    },
+    {
+     "c": "#a3a4d2",
+     "p": 10
+    },
+    {
+     "c": "#a7a9dd",
+     "p": 10
+    },
+    {
+     "c": "#ceccec",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 022",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958221231
+  },
+  {
+   "id": "user-1793390227552",
+   "title": "Anomalía ocular.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241653_6ce290876e_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Circulismo, Puntillismo, Esfumado, Achurado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "ESFUMADO",
+    "ACHURADO"
+   ],
+   "palette": [
+    {
+     "c": "#6b494d",
+     "p": 10
+    },
+    {
+     "c": "#775659",
+     "p": 10
+    },
+    {
+     "c": "#8e6f71",
+     "p": 10
+    },
+    {
+     "c": "#9c8082",
+     "p": 10
+    },
+    {
+     "c": "#b8a4a5",
+     "p": 10
+    },
+    {
+     "c": "#b7ada7",
+     "p": 10
+    },
+    {
+     "c": "#c4b7b5",
+     "p": 10
+    },
+    {
+     "c": "#dcded4",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 023",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958222231
+  },
+  {
+   "id": "user-1793391977524",
+   "title": "Gestación del abismo.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616105356_426ff942f1_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Circulismo, Puntillismo, Rayado, Esfumado, Trama",
+   "materials": "—",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "RAYADO",
+    "ESFUMADO",
+    "TRAMA"
+   ],
+   "palette": [
+    {
+     "c": "#605455",
+     "p": 10
+    },
+    {
+     "c": "#6a5c5d",
+     "p": 10
+    },
+    {
+     "c": "#7e6b6c",
+     "p": 10
+    },
+    {
+     "c": "#887878",
+     "p": 10
+    },
+    {
+     "c": "#9d918f",
+     "p": 10
+    },
+    {
+     "c": "#aa9b9b",
+     "p": 10
+    },
+    {
+     "c": "#aea09f",
+     "p": 10
+    },
+    {
+     "c": "#cfbebe",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 024",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958223231
+  },
+  {
+   "id": "user-1793392092635",
+   "title": "Smbiosis grotesca.",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616241638_c8586040e9_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Esfumado, Circulismo, Puntillismo",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "CIRCULISMO",
+    "PUNTILLISMO"
+   ],
+   "palette": [
+    {
+     "c": "#594b52",
+     "p": 10
+    },
+    {
+     "c": "#665c5e",
+     "p": 10
+    },
+    {
+     "c": "#818077",
+     "p": 10
+    },
+    {
+     "c": "#938e87",
+     "p": 10
+    },
+    {
+     "c": "#aca9aa",
+     "p": 10
+    },
+    {
+     "c": "#b7a9a7",
+     "p": 10
+    },
+    {
+     "c": "#c1b9b6",
+     "p": 10
+    },
+    {
+     "c": "#d5d8d5",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 025",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958224231
+  },
+  {
+   "id": "user-1793392223859",
+   "title": "Dimensión caótica",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518560_008d6d9703_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Esgrafiado, Circulismo, Puntillismo, Esfumado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "ESGRAFIADO",
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#624046",
+     "p": 10
+    },
+    {
+     "c": "#665053",
+     "p": 10
+    },
+    {
+     "c": "#6f6f6d",
+     "p": 10
+    },
+    {
+     "c": "#7b7c79",
+     "p": 10
+    },
+    {
+     "c": "#939690",
+     "p": 10
+    },
+    {
+     "c": "#aa9798",
+     "p": 10
+    },
+    {
+     "c": "#a6a5a0",
+     "p": 10
+    },
+    {
+     "c": "#cdc2c0",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 026",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958225231
+  },
+  {
+   "id": "user-1793392341645",
+   "title": "Tejido del abismo",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518555_153b0c84d1_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Esfumado, Rayado, Circulismo",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "RAYADO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#575058",
+     "p": 10
+    },
+    {
+     "c": "#645d61",
+     "p": 10
+    },
+    {
+     "c": "#7f7673",
+     "p": 10
+    },
+    {
+     "c": "#8c8381",
+     "p": 10
+    },
+    {
+     "c": "#a59d9c",
+     "p": 10
+    },
+    {
+     "c": "#ada8a9",
+     "p": 10
+    },
+    {
+     "c": "#b6afad",
+     "p": 10
+    },
+    {
+     "c": "#d8d3d1",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 027",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958226231
+  },
+  {
+   "id": "user-1793392450183",
+   "title": "Temporadas en el abismo",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616518550_fa5c9c07ce_z.jpg",
+   "year": "2025",
+   "paper": "Genérico A5 (148 x 210 mm) 160g",
+   "gallery": "GALERÍA I",
+   "category": "estilografos",
+   "technique": "Circulismo, Puntillismo, Esfumado, Garabateo",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "ESFUMADO",
+    "GARABATEO"
+   ],
+   "palette": [
+    {
+     "c": "#4d504c",
+     "p": 10
+    },
+    {
+     "c": "#545753",
+     "p": 10
+    },
+    {
+     "c": "#626562",
+     "p": 10
+    },
+    {
+     "c": "#6e716c",
+     "p": 10
+    },
+    {
+     "c": "#878981",
+     "p": 10
+    },
+    {
+     "c": "#9a9b95",
+     "p": 10
+    },
+    {
+     "c": "#9a9c98",
+     "p": 10
+    },
+    {
+     "c": "#c0c1bd",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 028",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958227231
+  },
+  {
+   "id": "user-1794419129659",
+   "title": "Membrana",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55615102862_dbf531ced0_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 225g",
+   "gallery": "GALERÍA II",
+   "category": "lapices",
+   "technique": "Esfumado, Difumado",
+   "materials": "—",
+   "cats": [
+    "LAPICES"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#0e0517",
+     "p": 10
+    },
+    {
+     "c": "#5e1341",
+     "p": 10
+    },
+    {
+     "c": "#ab6cb9",
+     "p": 10
+    },
+    {
+     "c": "#ff2e97",
+     "p": 10
+    },
+    {
+     "c": "#af9c08",
+     "p": 10
+    },
+    {
+     "c": "#54e9ab",
+     "p": 10
+    },
+    {
+     "c": "#00eaff",
+     "p": 10
+    },
+    {
+     "c": "#ffe600",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 029",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958228231
+  },
+  {
+   "id": "user-1794419995047",
+   "title": "Guardián del Abismo",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55615102997_1846a48a1d_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Rayado, Esfumado, Achurado",
+   "materials": "AZUL",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "ESFUMADO",
+    "ACHURADO"
+   ],
+   "palette": [
+    {
+     "c": "#6e629f",
+     "p": 10
+    },
+    {
+     "c": "#8478b2",
+     "p": 10
+    },
+    {
+     "c": "#b2a6da",
+     "p": 10
+    },
+    {
+     "c": "#c4bce1",
+     "p": 10
+    },
+    {
+     "c": "#cfcbdf",
+     "p": 10
+    },
+    {
+     "c": "#eae9ee",
+     "p": 10
+    },
+    {
+     "c": "#f1f0f4",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 030",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958229231
+  },
+  {
+   "id": "user-1794420429000",
+   "title": "Geometría alterna",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616112286_2b217ab138_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Esfumado, Esgrafiado, Difumado, Circulismo",
+   "materials": "2H, 2B, 4B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "ESGRAFIADO",
+    "DIFUMADO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#797b7a",
+     "p": 10
+    },
+    {
+     "c": "#838481",
+     "p": 10
+    },
+    {
+     "c": "#969790",
+     "p": 10
+    },
+    {
+     "c": "#9ea099",
+     "p": 10
+    },
+    {
+     "c": "#aeb1ab",
+     "p": 10
+    },
+    {
+     "c": "#b3b5b0",
+     "p": 10
+    },
+    {
+     "c": "#b9bcb5",
+     "p": 10
+    },
+    {
+     "c": "#d0d2ca",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 031",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958230231
+  },
+  {
+   "id": "user-1794420512821",
+   "title": "Geometría orgánica",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616112356_9e3317fdb0_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Rayado, Esfumado, Esgrafiado, Circulismo, Difumado",
+   "materials": "2H, 2B, 8B, 4B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "RAYADO",
+    "ESFUMADO",
+    "ESGRAFIADO",
+    "CIRCULISMO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#91928c",
+     "p": 10
+    },
+    {
+     "c": "#9b9c95",
+     "p": 10
+    },
+    {
+     "c": "#afafa7",
+     "p": 10
+    },
+    {
+     "c": "#babbb3",
+     "p": 10
+    },
+    {
+     "c": "#d1d2ca",
+     "p": 10
+    },
+    {
+     "c": "#dbdbd9",
+     "p": 10
+    },
+    {
+     "c": "#e0e1db",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 032",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958231231
+  },
+  {
+   "id": "user-1794420705550",
+   "title": "Perspectiva lineal",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616248698_1ae70eab1c_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Trama, Rayado",
+   "materials": "AZUL",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "TRAMA",
+    "RAYADO"
+   ],
+   "palette": [
+    {
+     "c": "#454171",
+     "p": 10
+    },
+    {
+     "c": "#69658e",
+     "p": 10
+    },
+    {
+     "c": "#b3afc8",
+     "p": 10
+    },
+    {
+     "c": "#c1c0cf",
+     "p": 10
+    },
+    {
+     "c": "#c4c0d5",
+     "p": 10
+    },
+    {
+     "c": "#e6e4f0",
+     "p": 10
+    },
+    {
+     "c": "#eeedf5",
+     "p": 10
+    },
+    {
+     "c": "#fefefe",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 033",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958232231
+  },
+  {
+   "id": "user-1794420837505",
+   "title": "Acceso geométrico",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616248708_d9618e8eb7_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Rayado, Trama",
+   "materials": "AZUL",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "TRAMA"
+   ],
+   "palette": [
+    {
+     "c": "#9390bc",
+     "p": 10
+    },
+    {
+     "c": "#b0acd2",
+     "p": 10
+    },
+    {
+     "c": "#bfbbde",
+     "p": 10
+    },
+    {
+     "c": "#dbdae9",
+     "p": 10
+    },
+    {
+     "c": "#eae6ff",
+     "p": 10
+    },
+    {
+     "c": "#f1eeff",
+     "p": 10
+    },
+    {
+     "c": "#f5f3ff",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 034",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958233231
+  },
+  {
+   "id": "user-1794420978968",
+   "title": "Intersección",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616248758_5ddec64792_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Rayado, Trama",
+   "materials": "NEGRO",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "TRAMA"
+   ],
+   "palette": [
+    {
+     "c": "#735357",
+     "p": 10
+    },
+    {
+     "c": "#8c7274",
+     "p": 10
+    },
+    {
+     "c": "#beb0af",
+     "p": 10
+    },
+    {
+     "c": "#d1c6c8",
+     "p": 10
+    },
+    {
+     "c": "#d2c8c7",
+     "p": 10
+    },
+    {
+     "c": "#fcfaf9",
+     "p": 10
+    },
+    {
+     "c": "#fdfcfb",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 035",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958234231
+  },
+  {
+   "id": "user-1794421275333",
+   "title": "Guardían del abismo",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616248783_37f3536399_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 225g",
+   "gallery": "GALERÍA II",
+   "category": "estilografos",
+   "technique": "Esfumado, Circulismo, Puntillismo, Garabateo",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "GARABATEO"
+   ],
+   "palette": [
+    {
+     "c": "#5d5e5a",
+     "p": 10
+    },
+    {
+     "c": "#676863",
+     "p": 10
+    },
+    {
+     "c": "#7c7d75",
+     "p": 10
+    },
+    {
+     "c": "#888982",
+     "p": 10
+    },
+    {
+     "c": "#a0a19d",
+     "p": 10
+    },
+    {
+     "c": "#a3a49f",
+     "p": 10
+    },
+    {
+     "c": "#adaea9",
+     "p": 10
+    },
+    {
+     "c": "#c6c7c1",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 036",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958235231
+  },
+  {
+   "id": "user-1794421639020",
+   "title": "Inicio del fin",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616248798_a74c1c965c_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "estilografos",
+   "technique": "Rayado, Trama, Achurado, Esfumado, Escalonado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "RAYADO",
+    "TRAMA",
+    "ACHURADO",
+    "ESFUMADO",
+    "ESCALONADO"
+   ],
+   "palette": [
+    {
+     "c": "#766868",
+     "p": 10
+    },
+    {
+     "c": "#847a79",
+     "p": 10
+    },
+    {
+     "c": "#a1a09d",
+     "p": 10
+    },
+    {
+     "c": "#b0adaa",
+     "p": 10
+    },
+    {
+     "c": "#c8bebe",
+     "p": 10
+    },
+    {
+     "c": "#cfc6c5",
+     "p": 10
+    },
+    {
+     "c": "#dad2d1",
+     "p": 10
+    },
+    {
+     "c": "#f1e9e9",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 037",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958236231
+  },
+  {
+   "id": "user-1794421947099",
+   "title": "Cazador de almas",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616321759_539f668977_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Esfumado, Rayado, Puntillismo, Circulismo, Esgrafiado",
+   "materials": "2H, 2B, 6B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "ESFUMADO",
+    "RAYADO",
+    "PUNTILLISMO",
+    "CIRCULISMO",
+    "ESGRAFIADO"
+   ],
+   "palette": [
+    {
+     "c": "#959690",
+     "p": 10
+    },
+    {
+     "c": "#9fa099",
+     "p": 10
+    },
+    {
+     "c": "#b3b5ac",
+     "p": 10
+    },
+    {
+     "c": "#bec0b7",
+     "p": 10
+    },
+    {
+     "c": "#d5d3c8",
+     "p": 10
+    },
+    {
+     "c": "#d5d6ce",
+     "p": 10
+    },
+    {
+     "c": "#e0dfd5",
+     "p": 10
+    },
+    {
+     "c": "#f5f1e4",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 038",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958237231
+  },
+  {
+   "id": "user-1794422067808",
+   "title": "Confín de la Locura",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616321764_f4591c3dc0_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Trama, Esfumado, Rayado, Puntillismo, Circulismo, Difumado, Garabateo",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "TRAMA",
+    "ESFUMADO",
+    "RAYADO",
+    "PUNTILLISMO",
+    "CIRCULISMO",
+    "DIFUMADO",
+    "GARABATEO"
+   ],
+   "palette": [
+    {
+     "c": "#4b4777",
+     "p": 10
+    },
+    {
+     "c": "#565283",
+     "p": 10
+    },
+    {
+     "c": "#6d699b",
+     "p": 10
+    },
+    {
+     "c": "#7873a9",
+     "p": 10
+    },
+    {
+     "c": "#8e86c6",
+     "p": 10
+    },
+    {
+     "c": "#938dbb",
+     "p": 10
+    },
+    {
+     "c": "#9b94ce",
+     "p": 10
+    },
+    {
+     "c": "#b6afdd",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 039",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958238231
+  },
+  {
+   "id": "user-1794422742247",
+   "title": "Raíces del vació",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616321794_2a25c300e7_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Esgrafiado, Difumado",
+   "materials": "—",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "ESGRAFIADO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#979992",
+     "p": 10
+    },
+    {
+     "c": "#a1a39c",
+     "p": 10
+    },
+    {
+     "c": "#b6b7b0",
+     "p": 10
+    },
+    {
+     "c": "#c0c1ba",
+     "p": 10
+    },
+    {
+     "c": "#d3d3cc",
+     "p": 10
+    },
+    {
+     "c": "#d4d5ce",
+     "p": 10
+    },
+    {
+     "c": "#ddded7",
+     "p": 10
+    },
+    {
+     "c": "#f0f0e9",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 040",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958239231
+  },
+  {
+   "id": "user-1794422887617",
+   "title": "Overtura",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616321819_f9cc2a9ccb_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Trama, Esfumado, Difumado, Rayado",
+   "materials": "AZUL",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "TRAMA",
+    "ESFUMADO",
+    "DIFUMADO",
+    "RAYADO"
+   ],
+   "palette": [
+    {
+     "c": "#58528b",
+     "p": 10
+    },
+    {
+     "c": "#686297",
+     "p": 10
+    },
+    {
+     "c": "#8983ae",
+     "p": 10
+    },
+    {
+     "c": "#9a94bc",
+     "p": 10
+    },
+    {
+     "c": "#bdb8d9",
+     "p": 10
+    },
+    {
+     "c": "#bdbbd3",
+     "p": 10
+    },
+    {
+     "c": "#cecae3",
+     "p": 10
+    },
+    {
+     "c": "#efeef6",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 041",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958240231
+  },
+  {
+   "id": "user-1794423135728",
+   "title": "Fusión Regenerativa",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616525840_b1da1973f2_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Puntillismo, Circulismo, Esfumado, Difumado",
+   "materials": "2H, 2B, 4B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "CIRCULISMO",
+    "ESFUMADO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#9a9b94",
+     "p": 10
+    },
+    {
+     "c": "#a2a39b",
+     "p": 10
+    },
+    {
+     "c": "#b2b4a9",
+     "p": 10
+    },
+    {
+     "c": "#b9baaf",
+     "p": 10
+    },
+    {
+     "c": "#c6c6bb",
+     "p": 10
+    },
+    {
+     "c": "#c9cac2",
+     "p": 10
+    },
+    {
+     "c": "#cfcfc5",
+     "p": 10
+    },
+    {
+     "c": "#e0e1d8",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 042",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958241231
+  },
+  {
+   "id": "user-1794423363416",
+   "title": "Núcleo del abismo",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616525890_020e7d5719_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Circulismo, Puntillismo, Rayado",
+   "materials": "2H, 2B, 4B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "PUNTILLISMO",
+    "RAYADO"
+   ],
+   "palette": [
+    {
+     "c": "#91918d",
+     "p": 10
+    },
+    {
+     "c": "#9a9b96",
+     "p": 10
+    },
+    {
+     "c": "#adafa8",
+     "p": 10
+    },
+    {
+     "c": "#b6b7b0",
+     "p": 10
+    },
+    {
+     "c": "#c4c5be",
+     "p": 10
+    },
+    {
+     "c": "#c7c8c0",
+     "p": 10
+    },
+    {
+     "c": "#cecfc7",
+     "p": 10
+    },
+    {
+     "c": "#ddded6",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 043",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958242231
+  },
+  {
+   "id": "user-1794424677555",
+   "title": "Cazador de almas",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616525910_1cfa36aa86_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Puntillismo, Rayado, Garabateo, Circulismo, Difumado",
+   "materials": "NEGRO, Negro carbón, Negro humo, Negro intenso",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "RAYADO",
+    "GARABATEO",
+    "CIRCULISMO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#68474c",
+     "p": 10
+    },
+    {
+     "c": "#6f5155",
+     "p": 10
+    },
+    {
+     "c": "#7e6567",
+     "p": 10
+    },
+    {
+     "c": "#897072",
+     "p": 10
+    },
+    {
+     "c": "#9f8689",
+     "p": 10
+    },
+    {
+     "c": "#ae9396",
+     "p": 10
+    },
+    {
+     "c": "#b09799",
+     "p": 10
+    },
+    {
+     "c": "#d1b8ba",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 044",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958243231
+  },
+  {
+   "id": "user-1794424805106",
+   "title": "Nido del tiempo",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616525930_c03ebabb9f_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 160g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Circulismo, Esfumado",
+   "materials": "2H, 2B, 6B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "CIRCULISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#a9aba2",
+     "p": 10
+    },
+    {
+     "c": "#b2b4ab",
+     "p": 10
+    },
+    {
+     "c": "#c4c6bd",
+     "p": 10
+    },
+    {
+     "c": "#cbcdc4",
+     "p": 10
+    },
+    {
+     "c": "#d9d8d2",
+     "p": 10
+    },
+    {
+     "c": "#d9dbd2",
+     "p": 10
+    },
+    {
+     "c": "#e1e1da",
+     "p": 10
+    },
+    {
+     "c": "#f0eee9",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 045",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958244231
+  },
+  {
+   "id": "user-1794425014649",
+   "title": "Raíces del pasado",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616525975_c83a217810_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 225g",
+   "gallery": "GALERÍA II",
+   "category": "grafito",
+   "technique": "Achurado, Rayado, Circulismo, Trama",
+   "materials": "NEGRO, Negro carbón, Negro humo, Negro intenso",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "ACHURADO",
+    "RAYADO",
+    "CIRCULISMO",
+    "TRAMA"
+   ],
+   "palette": [
+    {
+     "c": "#525758",
+     "p": 10
+    },
+    {
+     "c": "#6c7070",
+     "p": 10
+    },
+    {
+     "c": "#a2a2a0",
+     "p": 10
+    },
+    {
+     "c": "#afb0ac",
+     "p": 10
+    },
+    {
+     "c": "#bbbcbb",
+     "p": 10
+    },
+    {
+     "c": "#caccc3",
+     "p": 10
+    },
+    {
+     "c": "#d6d7d1",
+     "p": 10
+    },
+    {
+     "c": "#eeeeec",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 046",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958245231
+  },
+  {
+   "id": "user-1794425210309",
+   "title": "Ascenso del Dragón",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616525990_d7504d2a2f_z.jpg",
+   "year": "2025",
+   "paper": "Facia Opalina (216 x 279 mm) 225g",
+   "gallery": "GALERÍA II",
+   "category": "boligrafo",
+   "technique": "Puntillismo, Rayado, Esfumado, Trama, Circulismo, Difumado",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "RAYADO",
+    "ESFUMADO",
+    "TRAMA",
+    "CIRCULISMO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#4a4f94",
+     "p": 10
+    },
+    {
+     "c": "#4f589f",
+     "p": 10
+    },
+    {
+     "c": "#5a69b5",
+     "p": 10
+    },
+    {
+     "c": "#6571be",
+     "p": 10
+    },
+    {
+     "c": "#7b82cf",
+     "p": 10
+    },
+    {
+     "c": "#8a8fd0",
+     "p": 10
+    },
+    {
+     "c": "#8a91d9",
+     "p": 10
+    },
+    {
+     "c": "#a9aeee",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 047",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958246231
+  },
+  {
+   "id": "user-1794594157650",
+   "title": "El fluir de la materia",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55615109342_9120681e2d_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "grafito",
+   "technique": "Puntillismo, Difumado",
+   "materials": "2H, HB, 4B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#898e8e",
+     "p": 10
+    },
+    {
+     "c": "#939797",
+     "p": 10
+    },
+    {
+     "c": "#a7a9a9",
+     "p": 10
+    },
+    {
+     "c": "#b3b4b4",
+     "p": 10
+    },
+    {
+     "c": "#cacaca",
+     "p": 10
+    },
+    {
+     "c": "#d8dada",
+     "p": 10
+    },
+    {
+     "c": "#dbdbdb",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 048",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958247231
+  },
+  {
+   "id": "user-1794601140775",
+   "title": "Deformación Orgánica",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55615109422_25d23b03b3_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "boligrafo",
+   "technique": "Rayado, Difumado, Perspectiva",
+   "materials": "NEGRO",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "DIFUMADO",
+    "PERSPECTIVA"
+   ],
+   "palette": [
+    {
+     "c": "#525252",
+     "p": 10
+    },
+    {
+     "c": "#6b6567",
+     "p": 10
+    },
+    {
+     "c": "#9f8d91",
+     "p": 10
+    },
+    {
+     "c": "#afa2a5",
+     "p": 10
+    },
+    {
+     "c": "#c5c5c5",
+     "p": 10
+    },
+    {
+     "c": "#cfcecf",
+     "p": 10
+    },
+    {
+     "c": "#dfdedf",
+     "p": 10
+    },
+    {
+     "c": "#fefefe",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 049",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958248231
+  },
+  {
+   "id": "user-1794601374917",
+   "title": "Esquema Cinético",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616118526_8e37252b1e_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "boligrafo",
+   "technique": "Rayado, Achurado, Trama, Garabateo, Difumado, Circulismo, Puntillismo",
+   "materials": "NEGRO",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "ACHURADO",
+    "TRAMA",
+    "GARABATEO",
+    "DIFUMADO",
+    "CIRCULISMO",
+    "PUNTILLISMO"
+   ],
+   "palette": [
+    {
+     "c": "#696b6c",
+     "p": 10
+    },
+    {
+     "c": "#7a7b7c",
+     "p": 10
+    },
+    {
+     "c": "#838484",
+     "p": 10
+    },
+    {
+     "c": "#9d9c9c",
+     "p": 10
+    },
+    {
+     "c": "#adadad",
+     "p": 10
+    },
+    {
+     "c": "#cecece",
+     "p": 10
+    },
+    {
+     "c": "#dedede",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 050",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958249231
+  },
+  {
+   "id": "user-1794601644302",
+   "title": "Flujo Vital",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616255083_eeb6575a17_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "lapices",
+   "technique": "Puntillismo, Difumado, Rayado",
+   "materials": "NEGRO, BLANCO, Rojo ladrillo, Verde oliva, Verde esmeralda, AZUL, Azul celeste, Rosa chicle, Amarillo mostaza, NARANJA, Naranja pastel, Lavanda",
+   "cats": [
+    "LAPICES"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "DIFUMADO",
+    "RAYADO"
+   ],
+   "palette": [
+    {
+     "c": "#958e5d",
+     "p": 10
+    },
+    {
+     "c": "#ad9167",
+     "p": 10
+    },
+    {
+     "c": "#de967c",
+     "p": 10
+    },
+    {
+     "c": "#cea5a4",
+     "p": 10
+    },
+    {
+     "c": "#d2bea3",
+     "p": 10
+    },
+    {
+     "c": "#acc2f5",
+     "p": 10
+    },
+    {
+     "c": "#c2c8e5",
+     "p": 10
+    },
+    {
+     "c": "#f0d5c5",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 051",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958250231
+  },
+  {
+   "id": "user-1794601855148",
+   "title": "Orígenes del Pasado",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616255098_e2c46a8581_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "grafito",
+   "technique": "Puntillismo, Difumado, Esfumado, Circulismo",
+   "materials": "2H, 2B, 6B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "DIFUMADO",
+    "ESFUMADO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#878c8c",
+     "p": 10
+    },
+    {
+     "c": "#919494",
+     "p": 10
+    },
+    {
+     "c": "#a4a5a5",
+     "p": 10
+    },
+    {
+     "c": "#adaeae",
+     "p": 10
+    },
+    {
+     "c": "#bfc0c0",
+     "p": 10
+    },
+    {
+     "c": "#c4c6c6",
+     "p": 10
+    },
+    {
+     "c": "#cbcbcb",
+     "p": 10
+    },
+    {
+     "c": "#e2e2e2",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 052",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958251231
+  },
+  {
+   "id": "user-1794602094706",
+   "title": "Sueño en Gris",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616255108_0fe3050e9e_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "grafito",
+   "technique": "Rayado, Puntillismo, Trama, Esfumado, Difumado, Circulismo",
+   "materials": "—",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "RAYADO",
+    "PUNTILLISMO",
+    "TRAMA",
+    "ESFUMADO",
+    "DIFUMADO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#72777a",
+     "p": 10
+    },
+    {
+     "c": "#777c7f",
+     "p": 10
+    },
+    {
+     "c": "#818788",
+     "p": 10
+    },
+    {
+     "c": "#888e8e",
+     "p": 10
+    },
+    {
+     "c": "#979c9b",
+     "p": 10
+    },
+    {
+     "c": "#abafae",
+     "p": 10
+    },
+    {
+     "c": "#b4b6b7",
+     "p": 10
+    },
+    {
+     "c": "#d5d5d5",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 053",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958252231
+  },
+  {
+   "id": "user-1794602193667",
+   "title": "Drakonian Trilogy",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616255118_cf543345b2_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "boligrafo",
+   "technique": "Puntillismo, Rayado, Achurado, Esfumado, Trama, Garabateo, Difumado, Circulismo",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "RAYADO",
+    "ACHURADO",
+    "ESFUMADO",
+    "TRAMA",
+    "GARABATEO",
+    "DIFUMADO",
+    "CIRCULISMO"
+   ],
+   "palette": [
+    {
+     "c": "#434898",
+     "p": 10
+    },
+    {
+     "c": "#5055a4",
+     "p": 10
+    },
+    {
+     "c": "#6b6fbb",
+     "p": 10
+    },
+    {
+     "c": "#797cc3",
+     "p": 10
+    },
+    {
+     "c": "#9696d4",
+     "p": 10
+    },
+    {
+     "c": "#9ea1c4",
+     "p": 10
+    },
+    {
+     "c": "#a7a8d6",
+     "p": 10
+    },
+    {
+     "c": "#cbcdda",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 054",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958253231
+  },
+  {
+   "id": "user-1794602345712",
+   "title": "Colores Orgánicos",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616255123_2a48a271c8_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "marcadores",
+   "technique": "Rayado, Garabateo, Trama",
+   "materials": "NEGRO, BLANCO, ROJO, VERDE, AZUL, ROSA, AMARILLO, CAFE, NARANJA, MAGENTA",
+   "cats": [
+    "MARCADORES"
+   ],
+   "techs": [
+    "RAYADO",
+    "GARABATEO",
+    "TRAMA"
+   ],
+   "palette": [
+    {
+     "c": "#584957",
+     "p": 10
+    },
+    {
+     "c": "#4c6179",
+     "p": 10
+    },
+    {
+     "c": "#3592be",
+     "p": 10
+    },
+    {
+     "c": "#629cb0",
+     "p": 10
+    },
+    {
+     "c": "#bcb194",
+     "p": 10
+    },
+    {
+     "c": "#c8c3c8",
+     "p": 10
+    },
+    {
+     "c": "#d2cbb7",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 055",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958254231
+  },
+  {
+   "id": "user-1794602533026",
+   "title": "Oásis Qúbiko",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616328194_7d4c0efbd7_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "grafito",
+   "technique": "Rayado, Trama, Difumado, Perspectiva",
+   "materials": "2H, HB, 4B, 12B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "RAYADO",
+    "TRAMA",
+    "DIFUMADO",
+    "PERSPECTIVA"
+   ],
+   "palette": [
+    {
+     "c": "#787b7c",
+     "p": 10
+    },
+    {
+     "c": "#898b8c",
+     "p": 10
+    },
+    {
+     "c": "#acacac",
+     "p": 10
+    },
+    {
+     "c": "#bababa",
+     "p": 10
+    },
+    {
+     "c": "#d2d3d4",
+     "p": 10
+    },
+    {
+     "c": "#d7d7d7",
+     "p": 10
+    },
+    {
+     "c": "#e4e4e4",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 056",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958255231
+  },
+  {
+   "id": "user-1794602661655",
+   "title": "Ascenso del Dragón",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616328214_1d8499e1cf_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "boligrafo",
+   "technique": "Rayado, Trama, Garabateo, Difumado, Circulismo, Puntillismo",
+   "materials": "NEGRO",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "TRAMA",
+    "GARABATEO",
+    "DIFUMADO",
+    "CIRCULISMO",
+    "PUNTILLISMO"
+   ],
+   "palette": [
+    {
+     "c": "#565857",
+     "p": 10
+    },
+    {
+     "c": "#5e6161",
+     "p": 10
+    },
+    {
+     "c": "#6e7474",
+     "p": 10
+    },
+    {
+     "c": "#7a7f7d",
+     "p": 10
+    },
+    {
+     "c": "#919490",
+     "p": 10
+    },
+    {
+     "c": "#9b9c9b",
+     "p": 10
+    },
+    {
+     "c": "#a0a29f",
+     "p": 10
+    },
+    {
+     "c": "#bdbdbd",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 057",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958256231
+  },
+  {
+   "id": "user-1794602798989",
+   "title": "Patrón de colores",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616328224_217461776e_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "lapices",
+   "technique": "Puntillismo, Trama, Esfumado, Difumado",
+   "materials": "NEGRO, Negro carbón, Negro humo, Negro intenso, ROSA, Rosa pastel, Rosa chicle, Rosa palo, ROJO, Rojo carmesí, Rojo ladrillo, Rojo coral, NARANJA, Naranja pastel, Naranja quemado, Naranja mandarina, AMARILLO, Amarillo limón, Amarillo mostaza, Amarillo dorado, VERDE, Verde menta, Verde oliva, Verde esmeralda, AZUL, Azul celeste, Azul marino, Azul cian, MAGENTA, Lavanda, Púrpura, Fucsia",
+   "cats": [
+    "LAPICES"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "TRAMA",
+    "ESFUMADO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#b6b7b7",
+     "p": 10
+    },
+    {
+     "c": "#cec4a0",
+     "p": 10
+    },
+    {
+     "c": "#ffde71",
+     "p": 10
+    },
+    {
+     "c": "#e7e7e7",
+     "p": 10
+    },
+    {
+     "c": "#fbe7a0",
+     "p": 10
+    },
+    {
+     "c": "#f2f8ff",
+     "p": 10
+    },
+    {
+     "c": "#f6faff",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 058",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958257231
+  },
+  {
+   "id": "user-1794602967169",
+   "title": "Espacio Orgánico",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616328229_1c5b8a1f63_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "lapices",
+   "technique": "Puntillismo, Rayado, Trama, Difumado, Circulismo, Esfumado",
+   "materials": "BLANCO, NARANJA, Naranja pastel, Naranja quemado, Naranja mandarina, Amarillo limón, Amarillo mostaza, ROSA, Rosa chicle, AZUL, Azul celeste, Azul marino, Azul cian, VERDE, Verde menta, Verde oliva, Verde esmeralda, ROJO, Rojo carmesí",
+   "cats": [
+    "LAPICES"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "RAYADO",
+    "TRAMA",
+    "DIFUMADO",
+    "CIRCULISMO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#86adc3",
+     "p": 10
+    },
+    {
+     "c": "#95b2c8",
+     "p": 10
+    },
+    {
+     "c": "#b4bbd2",
+     "p": 10
+    },
+    {
+     "c": "#b2c5d5",
+     "p": 10
+    },
+    {
+     "c": "#bed3c5",
+     "p": 10
+    },
+    {
+     "c": "#aed9dc",
+     "p": 10
+    },
+    {
+     "c": "#bcddd5",
+     "p": 10
+    },
+    {
+     "c": "#d9e6c6",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 059",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958258231
+  },
+  {
+   "id": "user-1794603153730",
+   "title": "Disperción Dimensional",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616328274_30ff7c49f2_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "boligrafo",
+   "technique": "Rayado, Trama, Difumado",
+   "materials": "AZUL, Azul celeste, Azul marino, Azul cian",
+   "cats": [
+    "BOLIGRAFO"
+   ],
+   "techs": [
+    "RAYADO",
+    "TRAMA",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#5b4f97",
+     "p": 10
+    },
+    {
+     "c": "#6459a1",
+     "p": 10
+    },
+    {
+     "c": "#756db4",
+     "p": 10
+    },
+    {
+     "c": "#817abf",
+     "p": 10
+    },
+    {
+     "c": "#9995d5",
+     "p": 10
+    },
+    {
+     "c": "#aea8d6",
+     "p": 10
+    },
+    {
+     "c": "#adaae0",
+     "p": 10
+    },
+    {
+     "c": "#d7d4f5",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 060",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958259231
+  },
+  {
+   "id": "user-1794603222079",
+   "title": "Escudo Ancestral",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616328294_2c7503cba7_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "grafito",
+   "technique": "Rayado, Difumado, Trama, Esfumado",
+   "materials": "2H, HB, 4B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "RAYADO",
+    "DIFUMADO",
+    "TRAMA",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#8d908f",
+     "p": 10
+    },
+    {
+     "c": "#959796",
+     "p": 10
+    },
+    {
+     "c": "#a4a6a5",
+     "p": 10
+    },
+    {
+     "c": "#aeafaf",
+     "p": 10
+    },
+    {
+     "c": "#c2c2c2",
+     "p": 10
+    },
+    {
+     "c": "#c9cac9",
+     "p": 10
+    },
+    {
+     "c": "#cecece",
+     "p": 10
+    },
+    {
+     "c": "#e6e6e6",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 061",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958260231
+  },
+  {
+   "id": "user-1794603311515",
+   "title": "Raíces del Kaos",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616328354_48b0a14df8_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "grafito",
+   "technique": "Trama, Achurado, Difumado",
+   "materials": "2H, 2B, 6B, 10B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "TRAMA",
+    "ACHURADO",
+    "DIFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#8a8e8c",
+     "p": 10
+    },
+    {
+     "c": "#959897",
+     "p": 10
+    },
+    {
+     "c": "#abacac",
+     "p": 10
+    },
+    {
+     "c": "#b6b7b7",
+     "p": 10
+    },
+    {
+     "c": "#cccccc",
+     "p": 10
+    },
+    {
+     "c": "#d0d1d0",
+     "p": 10
+    },
+    {
+     "c": "#d9d9d9",
+     "p": 10
+    },
+    {
+     "c": "#f2f2f2",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 062",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958261231
+  },
+  {
+   "id": "user-1794603562382",
+   "title": "Orígenes Cósmicos",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616532000_18d76ed398_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "estilografos",
+   "technique": "Achurado, Trama, Garabateo, Difumado, Circulismo, Rayado",
+   "materials": "NEGRO",
+   "cats": [
+    "ESTILÓGRAFOS"
+   ],
+   "techs": [
+    "ACHURADO",
+    "TRAMA",
+    "GARABATEO",
+    "DIFUMADO",
+    "CIRCULISMO",
+    "RAYADO"
+   ],
+   "palette": [
+    {
+     "c": "#686869",
+     "p": 10
+    },
+    {
+     "c": "#80797c",
+     "p": 10
+    },
+    {
+     "c": "#b29ba2",
+     "p": 10
+    },
+    {
+     "c": "#b9aaaf",
+     "p": 10
+    },
+    {
+     "c": "#c0bcbe",
+     "p": 10
+    },
+    {
+     "c": "#c8c8c8",
+     "p": 10
+    },
+    {
+     "c": "#d4d2d3",
+     "p": 10
+    },
+    {
+     "c": "#ebe6e8",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 063",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": true,
+   "fit": "cover",
+   "created": 1794958262231
+  },
+  {
+   "id": "user-1794603712254",
+   "title": "Ciclo Natural",
+   "desc": "",
+   "img": "https://live.staticflickr.com/65535/55616532030_d38f41f1b3_z.jpg",
+   "year": "2026",
+   "paper": "Genérico B5 (176 x 250 mm) 160g",
+   "gallery": "GALERÍA III",
+   "category": "grafito",
+   "technique": "Puntillismo, Difumado, Esfumado",
+   "materials": "2H, 2B, 8B",
+   "cats": [
+    "GRAFITO"
+   ],
+   "techs": [
+    "PUNTILLISMO",
+    "DIFUMADO",
+    "ESFUMADO"
+   ],
+   "palette": [
+    {
+     "c": "#7e7f7d",
+     "p": 10
+    },
+    {
+     "c": "#979795",
+     "p": 10
+    },
+    {
+     "c": "#a4a4a2",
+     "p": 10
+    },
+    {
+     "c": "#c9c9c6",
+     "p": 10
+    },
+    {
+     "c": "#d4d5d4",
+     "p": 10
+    },
+    {
+     "c": "#dbdbd9",
+     "p": 10
+    },
+    {
+     "c": "#e4e4e3",
+     "p": 10
+    },
+    {
+     "c": "#ffffff",
+     "p": 10
+    }
+   ],
+   "file": "",
+   "num": "N.º 064",
+   "dim": "—",
+   "kb": 100,
+   "insignia": "normal",
+   "premium": false,
+   "fit": "cover",
+   "created": 1794958263231
+  }
+ ]
+>>>>>>> a9861ded0a3961d043cf38b5207a4b8bfa1dc26f
+}
