@@ -270,3 +270,12 @@ function settings() {
 
 T.editor = editor; T.promptLogin = promptLogin; T.buildBar = buildBar; T.exitAdmin = exitAdmin;
 })(window.TCG);
+
+/* Exponer función global para el footer */
+window.openAdminLogin = function() {
+  if (typeof promptLogin === 'function') {
+    promptLogin();
+  } else {
+    console.error('promptLogin no está definido');
+  }
+};
