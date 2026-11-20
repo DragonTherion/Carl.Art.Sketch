@@ -193,89 +193,12 @@ function editor(orig) {
   };
   const calcPalSoon = () => { clearTimeout(palT); palT = setTimeout(calcPal, 500); };
   drawPal();
-  const year = h('input', { type: 'text', inputmode: 'numeric', maxlength: '12', placeholder: 'Ej. 2025', value: m.year, autocomplete: 'off' }); year.addEventListener('input', () => { m.year = year.value.trim(); });
-  const title = h('input', { type: 'text', placeholder: 'Nombre de la obra', value: m.title, autocomplete: 'off' }); title.addEventListener('input', () => { m.title = title.value; });
-  const desc = h('textarea', { placeholder: 'Información ó descripción de la carta' }); desc.value = m.desc; desc.addEventListener('input', () => { m.desc = desc.value; });
-  /* insignia: estándar (normal) o dorada */
-  const insig = h('div', { class: 'insgs', role: 'radiogroup', 'aria-label': 'Insignia' });
-  const drawInsig = () => insig.replaceChildren(...[['normal', 'Insignia estándar'], ['dorada', 'Insignia dorada']].map(([k, nm]) => {
-    const on = (m.insignia || 'normal') === k;
-    return h('button', { type: 'button', class: 'insg' + (on ? ' on' : ''), role: 'radio', 'aria-checked': String(on), title: nm, 'aria-label': nm, onclick: () => { m.insignia = k; drawInsig(); refresh(); } }, T.insignia(k));
-  }));
-  drawInsig();
-  const prem = h('input', { type: 'checkbox' }); prem.checked = !!m.premium; prem.addEventListener('change', () => { m.premium = prem.checked; refresh(); });
-  const sw = h('label', { class: 'sw' }, prem, h('span', { class: 'tr' }), h('span', { class: 't' }, 'CARTA HOLOGRÁFICA'));
-  const save = h('button', { class: 'btn main', onclick: async () => {
-    clearTimeout(palT); if (!m.palette.length && safeUrl(m.img)) await calcPal();
-    if (safeUrl(m.img)) { const r = await T.infoImg(m); m.dim = r.dim || m.dim; m.kb = r.bytes ? Math.max(1, Math.round(r.bytes / 1024)) : m.kb; if (!m.file && !m.img.startsWith('data:')) m.file = T.fileOf(m); }
-    if (!m.num) m.num = T.nextNum(); m.copy = '';
-    m.title = title.value.trim(); m.desc = desc.value.trim();
-    if (!safeUrl(m.img)) { msg.textContent = 'Indica una URL de imagen válida (https://… o img/archivo.jpg) o sube un archivo.'; return; }
-    if (isNew) T.DB.works.push(m); else { const i = T.DB.works.findIndex(x => x.id === orig.id); if (i >= 0) T.DB.works[i] = m; }
-    T.persist(); md.close(); T.render(); toast(isNew ? 'Obra añadida a tu galería.' : 'Cambios guardados.');
-  } }, isNew ? 'SUBIR OBRA' : 'GUARDAR');
-  const exp = h('button', { class: 'btn', type: 'button', title: 'Descargar la carta: FRENTE y ATRÁS en PNG' }, 'EXPORTAR');
-  exp.onclick = async () => {
-    m.title = title.value.trim(); m.desc = desc.value.trim();
-    if (!safeUrl(m.img)) { msg.className = 'msg'; msg.textContent = 'Primero indica la imagen de la obra.'; return; }
-    exp.disabled = true; exp.textContent = 'EXPORTANDO…'; msg.textContent = '';
-    try { await T.exportarCarta(m); toast('Se descargaron FRENTE y ATRÁS (PNG).'); }
-    catch (e) { msg.className = 'msg'; msg.textContent = 'No se pudo exportar: la imagen es de otro sitio y no lo permite. Cópiala a la carpeta img/ o súbela con el botón ARCHIVO.'; }
-    exp.disabled = false; exp.textContent = 'EXPORTAR';
-  };
-  const acts = [h('button', { class: 'btn', onclick: () => md.close() }, 'CANCELAR'), exp, save];
-  if (!isNew) {
-    let armed = false;
-    const del = h('button', { class: 'btn danger sp', onclick: () => {
-      if (!armed) { armed = true; del.classList.add('arm'); del.textContent = 'CONFIRMAR ELIMINAR'; setTimeout(() => { armed = false; del.classList.remove('arm'); del.textContent = 'ELIMINAR'; }, 3500); return; }
-      T.DB.works = T.DB.works.filter(x => x.id !== orig.id); T.persist(); md.close(); T.render(); toast('Obra eliminada.');
-    } }, 'ELIMINAR');
-    acts.unshift(del);
-  }
-      urlField('URL DE IMAGEN', 'img', 'https://…/mi-boceto.jpg  ·  o  img/mi-boceto.jpg'),
-      h('div', { class: 'fld' }, h('label', null, 'PALETA DE COLORES'), palBox, palMsg),
-      h('button', { class: 'btn mini', type: 'button', onclick: calcPal }, 'RECALCULAR'),
-      h('div', { class: 'row2' }, h('div', { class: 'fld' }, h('label', null, 'INSIGNIA'), insig), h('div', { class: 'fld' }, h('label', null, '\u00a0'), sw)));
-  const pMat = h('div', { class: 'tabp' }, chipField('PAPEL', 'paper', T.OPC.papel, true), chipField('CATEGORÍA', 'cats', T.OPC.categoria, false), chipField('TÉCNICAS', 'techs', T.OPC.tecnicas, false));
-  const tabs = [['DATOS', pDatos], ['MATERIALES', pMat]].map(([n, pn], i) => { const b = h('button', { type: 'button', class: 'tab', role: 'tab' }, n); b.onclick = () => sel(i); b._p = pn; return b; });
-  const sel = i => tabs.forEach((b, j) => { b.classList.toggle('on', i === j); b.setAttribute('aria-selected', String(i === j)); b._p.classList.toggle('off', i !== j); }); sel(0);
-  const md = modal({ title: isNew ? 'Subir obra' : 'Editar obra', wide: true,
-    body: [h('div', { class: 'edgrid' },
-      h('div', null, h('div', { class: 'tabs', role: 'tablist' }, ...tabs), h('div', { class: 'tabstack' }, pDatos, pMat), msg),
-      h('div', { class: 'pvcol' }, pv, h('small', null, 'VISTA PREVIA')))],
-    actions: acts });
-  pv.replaceChildren(T.cardEl(m, true).persp);
-  if (!m.palette.length && safeUrl(m.img)) calcPal();
-}
-function settings() {
-  const t = h('input', { type: 'text', value: T.DB.site.title, autocomplete: 'off' }), s = h('input', { type: 'text', value: T.DB.site.sub || '', autocomplete: 'off' });
-  const p1 = h('input', { type: 'password', placeholder: 'Nueva contraseña (opcional)', autocomplete: 'new-password' }), p2 = h('input', { type: 'password', placeholder: 'Repite la nueva contraseña', autocomplete: 'new-password' });
-  const cp = h('input', { type: 'text', value: T.DB.site.copy || '', maxlength: '200', autocomplete: 'off', placeholder: '© {AÑO} CARL ART SKETCH. Todos los derechos reservados.' });
-  const msg = h('p', { class: 'msg' });
-  const ok = h('button', { class: 'btn main', onclick: async () => {
-    if (p1.value || p2.value) {
-      if (p1.value.length < 12) { msg.textContent = 'La contraseña debe tener 12 caracteres o más.'; return; }
-      if (p1.value !== p2.value) { msg.textContent = 'Las contraseñas no coinciden.'; return; }
-      ok.disabled = true; msg.className = 'msg ok'; msg.textContent = 'Protegiendo…'; await nextTick();
-      try {
-        const salt = T.randomSalt();
-        T.DB.auth = { algorithm: 'PBKDF2-SHA256', salt: hex(salt), hash: await hashPw(p1.value, salt), it: T.IT };
-      } catch (e) { ok.disabled = false; msg.className = 'msg'; msg.textContent = e.message || 'No se pudo proteger la contraseña.'; return; }
-    }
-    T.DB.site.title = t.value.trim() || 'CARL ART SKETCHES'; T.DB.site.sub = s.value.trim(); T.DB.site.copy = cp.value.trim(); T.persist(); md.close(); T.render(); toast('Ajustes guardados.');
-  } }, 'GUARDAR');
-  const md = modal({ title: 'Ajustes del sitio', body: [h('div', { class: 'fld' }, h('label', null, 'TÍTULO DEL SITIO'), t), h('div', { class: 'fld' }, h('label', null, 'SUBTÍTULO'), s), h('div', { class: 'fld' }, h('label', null, 'COPYRIGHT (PREDETERMINADO)'), cp),
-    h('div', { class: 'fld' }, h('label', null, 'CAMBIAR CONTRASEÑA'), p1, h('div', { style: 'height:8px' }), p2), msg], actions: [h('button', { class: 'btn', onclick: () => md.close() }, 'CANCELAR'), ok] });
-}
-
-T.editor = editor; T.promptLogin = promptLogin; T.buildBar = buildBar; T.exitAdmin = exitAdmin;
-})(window.TCG);
 
 /* Exponer función global para el footer */
 window.openAdminLogin = function() {
-  if (window.TCG if (typeof promptLogin === 'function') {if (typeof promptLogin === 'function') { typeof window.TCG.promptLogin === "function") {
+  if (window.TCG && typeof window.TCG.promptLogin === "function") {
     window.TCG.promptLogin();
   } else {
-    console.error('promptLogin no está definido');
+    console.error("promptLogin no está definido");
   }
 };
