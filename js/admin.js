@@ -132,11 +132,11 @@ function promptLogin() {
 addEventListener('keydown', e => {
   if (e.ctrlKey && e.shiftKey && !e.altKey && e.code === 'KeyA') {
     e.preventDefault(); e.stopPropagation();
-    if (T.admin) exitAdmin(); else if ($('.modalbg')) closeModals(); else promptLogin();
+    if (T.admin) exitAdmin(); else if ($('.modalbg')) closeModals(); else window.TCG.promptLogin();
   }
 }, true);
 /* Alternativa para móvil (sin teclado): mantener pulsado el título 1,5 s */
-(() => { let t = null; const el = $('#siteTitle'); const on = () => { t = setTimeout(() => { if (!T.admin) promptLogin(); }, 1500); }, off = () => clearTimeout(t);
+(() => { let t = null; const el = $('#siteTitle'); const on = () => { t = setTimeout(() => { if (!T.admin) window.TCG.promptLogin(); }, 1500); }, off = () => clearTimeout(t);
   el.addEventListener('pointerdown', on); ['pointerup', 'pointerleave', 'pointercancel'].forEach(k => el.addEventListener(k, off)); })();
 
 /* ---------- editor de obras ---------- */
@@ -273,8 +273,8 @@ T.editor = editor; T.promptLogin = promptLogin; T.buildBar = buildBar; T.exitAdm
 
 /* Exponer función global para el footer */
 window.openAdminLogin = function() {
-  if (typeof promptLogin === 'function') {
-    promptLogin();
+  if (window.TCG if (typeof promptLogin === 'function') {if (typeof promptLogin === 'function') { typeof window.TCG.promptLogin === "function") {
+    window.TCG.promptLogin();
   } else {
     console.error('promptLogin no está definido');
   }
